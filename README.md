@@ -38,16 +38,5 @@ README.md   # Archivo principal de documentación del repositorio
 
 Más detalles y visualizaciones se encuentran en el archivo `reports/informe_final.md`.
 
-## Reproducibilidad
-1. Clonar el repositorio:
-   git clone https://github.com/tuusuario/Telecom-X-Alura.git
-   cd Telecom-X-Alura
-
-2. Instalar dependencias:
-   pip install -r requirements.txt
-
-3. Abrir el notebook:
-   jupyter notebook notebooks/Telecom-X-Alura.ipynb
-
 ## Autor
-Proyecto desarrollado por **Víctor Farías Sarango** como parte del programa **Alura ONE - Data Science LATAM**.
+Proyecto desarrollado por **Santiago Guzman Escobar** como parte del programa **Alura ONE - Data Science LATAM**.
